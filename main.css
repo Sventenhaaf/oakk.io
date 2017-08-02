@@ -1,0 +1,28 @@
+body {
+  font-family: 'Varela', sans-serif;
+  background-color: #ffbb55
+}
+
+p {
+  font-size: 1.2em;
+  color: #333;
+  width: 100%;
+  text-align: center;
+
+
+  height: 10%;
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
+}
+
+line { stroke: black; stroke-width: .06; }
+
+.container {
+  position: relative;
+  text-align: center;
+}
+
+svg {
+  display: inline-block;
+}
